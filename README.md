@@ -1,1 +1,1 @@
-This repo was created to practice git
+This is a test repo for practicing command line git
